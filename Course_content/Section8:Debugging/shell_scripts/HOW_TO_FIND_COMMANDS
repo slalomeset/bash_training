@@ -1,0 +1,5 @@
+
+# find commands by reffering the keyword
+
+man -k "change dir"
+man -K "list directory"

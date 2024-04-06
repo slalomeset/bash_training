@@ -1,0 +1,13 @@
+google.txt
+udemy.txt
+gmail.txt
+facebook.txt
+twitter.txt
+yahoo.txt
+youtube.txt
+wikipedia.txt
+amazon.txt
+netflix.txt
+instagram.txt
+ubuntu.txt
+microsoft.txt

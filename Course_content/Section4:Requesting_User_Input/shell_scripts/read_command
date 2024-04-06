@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# read -t 5 -p "you have 5 sec to enter a value: " name
+echo "enter a truc"
+read name
+echo "you entered $name"

@@ -1,0 +1,11 @@
+HTTP/1.1 407 Proxy Authentication Required
+Proxy-Authenticate: BASIC realm="GRENOBLE_GATEWAY_AUTHENTICATION"
+X-XSS-Protection: 1
+Content-Type: text/html; charset=utf-8
+Content-Length: 899
+Pragma: no-cache
+Cache-Control: no-cache, proxy-revalidate
+Connection: keep-alive
+Set-Cookie: BCSI-CS-81de73a85e55df29=2; Path=/
+Date: Wed, 31 Jan 2024 11:15:51 GMT
+
